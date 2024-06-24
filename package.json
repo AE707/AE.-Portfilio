@@ -47,6 +47,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^6.1.1",
     "pdfjs-dist": "^4.3.136"
   }
 }
