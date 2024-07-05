@@ -3,8 +3,7 @@ import { Container, Row, Button } from "react-bootstrap";
 import { AiOutlineDownload } from "react-icons/ai";
 import { Document, Page, pdfjs } from "react-pdf";
 import Particle from "../components/Particle";
-//import pdf from "../assets/AEResume2.pdf";
-import pdf from "../assets/AEResume3.pdf";
+import pdf from "../assets/AEResume2.pdf";
 import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 import "react-pdf/dist/esm/Page/TextLayer.css";
 
@@ -12,7 +11,7 @@ import "react-pdf/dist/esm/Page/TextLayer.css";
 pdfjs.GlobalWorkerOptions.workerSrc = `https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.4.168/pdf.min.mjs`;
 
 
-const resumeLink = "https://raw.githubusercontent.com/AE707/AE.-Portfilio/main/src/assets/AEResume3.pdf";
+const resumeLink = "https://raw.githubusercontent.com/AE707/AE.-Portfilio/main/src/assets/AEResume2.pdf";
 
 
 const Resume = () => {

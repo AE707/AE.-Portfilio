@@ -24,7 +24,7 @@
     text-align: center !important;
     font-size: 2em !important;
     line-height: 2em !important;
-    background: rgba(110, 110, 110, 0.972) !important;
+    background: rgba(110, 110, 110, 0.829) !important;
     border-radius: 50% !important;
     transition: 0.5s !important;
   }
@@ -37,7 +37,7 @@
     width: 100%;
     height: 100%;
     border-radius: 50%;
-    background: #e9fa00;
+    background: #1494E9;
     transition: 0.5s;
     transform: scale(0.9);
     z-index: -1;
@@ -45,13 +45,13 @@
 
   .contact-social-icons:hover::before {
     transform: scale(1.1);
-    box-shadow: 0 0 15px #fdf902;
+    box-shadow: 0 0 15px #1494E9;
   }
   
   .contact-social-icons:hover {
-    color: #e5ff00;
-    box-shadow: 0 0 7px #fdf901;
-    text-shadow: 0 0 4px #fcf802;
+    color: #1494E9;
+    box-shadow: 0 0 7px #1494E9;
+    text-shadow: 0 0 4px #1494E9;
   }
   .contact-icons {
     display: inline-block !important;
@@ -60,5 +60,5 @@
   }
   
   .icon-color {
-    color: #e6ff01 !important;
+    color: #1494E9!important;
   } 
