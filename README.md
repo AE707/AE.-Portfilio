@@ -2,7 +2,7 @@
 
 [🔗Live Demo🔗](https://ae707.github.io/AE.-Portfilio/)
 
-![Protfolio Website](https://i.ibb.co/BqPfVps/portfolio-view.png)
+![Protfolio Website](https://i.ibb.co/QrcJFgm/portfolio-view.png)
 
 <div align="center">
 
