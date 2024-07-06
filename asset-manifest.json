@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/AE.-Portfilio/static/css/main.88703703.css",
-    "main.js": "/AE.-Portfilio/static/js/main.1c488658.js",
+    "main.css": "/AE.-Portfilio/static/css/main.47779b4d.css",
+    "main.js": "/AE.-Portfilio/static/js/main.8e11f0a0.js",
     "static/media/home-main.png": "/AE.-Portfilio/static/media/home-main.ec1783b3e639f5c94236.png",
     "static/media/kickstart.png": "/AE.-Portfilio/static/media/kickstart.e27936ec3fc35c1b6808.png",
     "static/media/krypto.png": "/AE.-Portfilio/static/media/krypto.ca0e8bf963cc76cfe26c.png",
@@ -14,11 +14,11 @@
     "static/media/pg.png": "/AE.-Portfilio/static/media/pg.0d0d8ff689849d3d367c.png",
     "static/media/pre.svg": "/AE.-Portfilio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/AE.-Portfilio/index.html",
-    "main.88703703.css.map": "/AE.-Portfilio/static/css/main.88703703.css.map",
-    "main.1c488658.js.map": "/AE.-Portfilio/static/js/main.1c488658.js.map"
+    "main.47779b4d.css.map": "/AE.-Portfilio/static/css/main.47779b4d.css.map",
+    "main.8e11f0a0.js.map": "/AE.-Portfilio/static/js/main.8e11f0a0.js.map"
   },
   "entrypoints": [
-    "static/css/main.88703703.css",
-    "static/js/main.1c488658.js"
+    "static/css/main.47779b4d.css",
+    "static/js/main.8e11f0a0.js"
   ]
 }
